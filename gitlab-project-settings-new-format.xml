@@ -1,0 +1,14 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="rcsZ5ZY9giU9genntdpf" />
+          <option name="apiUrl" value="https://gitlab.ms.ensim.com" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="gitlab.ms.ensim.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
