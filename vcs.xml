@@ -22,6 +22,10 @@
           <option name="url" value="http://pg-gitlab.altimetrik.com" />
           <option name="userName" value="sanjayjha99501596015728942" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="sanjayjha9950" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\" />
