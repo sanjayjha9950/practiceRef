@@ -1,0 +1,14 @@
+
+Tsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+]squid:S1192"FDefine a constant instead of duplicating this literal "Smith" 4 times.(ÆîÁŸ
+]squid:S1192
+"FDefine a constant instead of duplicating this literal "Jones" 4 times.(ê¢Ó§
+csquid:S1192"GDefine a constant instead of duplicating this literal "Wilson" 5 times.(’¨Ëìøÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µ†„Y
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õó­»üÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§ê§–üÿÿÿÿ
+bsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(¾õ´ş
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(‰’ç¤
+Hsquid:S1481",Remove this unused "billEnd" local variable.(ŠìÉ…ùÿÿÿÿ
+Wsquid:S1854";Remove this useless assignment to local variable "billEnd".(ŠìÉ…ùÿÿÿÿ
