@@ -1,5 +1,8 @@
 package design.pattern;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class Customer {
 
 
@@ -35,6 +38,7 @@ public class Customer {
             this.phoneNumber = phoneNumber2;
             return this;
         }
+
 
         public Customer build(){
             return new Customer(this);
