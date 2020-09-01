@@ -1,0 +1,18 @@
+<application>
+  <component name="libraryTable">
+    <library name="grails-3.3">
+      <CLASSES>
+        <root url="file://D:/grails-3.3.11" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="spring-modules-cache-0.8">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.grails/ivy-cache/org.springmodules/spring-modules-cache/jars/spring-modules-cache-0.8.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
