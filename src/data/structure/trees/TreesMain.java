@@ -23,7 +23,11 @@ public class TreesMain {
         System.out.println("Max = "+ intTree.max());
 
         intTree.delete(20);
-        intTree.traverseInOrder();
+        System.out.println("PreOrder traversal");
+        intTree.traversePreOrder();
+
+        System.out.println("PostOrder traversal");
+        intTree.traversePostOrder();
 
     }
 }

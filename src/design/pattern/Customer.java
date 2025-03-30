@@ -18,7 +18,8 @@ public class Customer {
         this.phoneNumber = customerBuilder.phoneNumber;
     }
 
-    public static class CustomerBuilder{
+    public static class
+    CustomerBuilder{
         private String name;
         private String customerId;
         private String phoneNumber;

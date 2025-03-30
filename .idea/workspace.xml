@@ -1,140 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ab196fb9-965e-4d67-b582-2f7c186eccd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c93020e71a823247d0afc61db6595391afac5ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f08b3b788e5977978d0ef82901a4d5a7548a94b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7260ec3c1cccf7fc4e66c2e63bbde18284c0ffe0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79d393ad8d5d940e9ac0510c5e79d703ad49034e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91d9d5fd0913bb2c0c8639d70bc5c8a6fb45d9bc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9d96c95a03a11434f69875e47accc91626ad69ef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b80d7c85fe74575740fb07c5d7f6b892464dcd27" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f788dc70c9a931b0c101adf98a01d1c94d9ca2f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff22d8d14224de338f029a6695e2a5850db7887b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeReferences.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/META-INF/PracticeReferences.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/ChainedHashTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/OddEvenThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/SimpleHashTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/StoredEmployee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/heap/Heap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/heap/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeDNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeDoublyLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/MainLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/queue/ArrayQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/queue/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/queue/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/CountingSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/FactorialRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/InsertionSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/SelectionSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/ShellSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/trees/Tree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/trees/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/trees/TreesMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Android$AndroidBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Android.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/BuilderPattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/CheeseBurst.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Customer$CustomerBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/DecoratorPattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/ExtraToppings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/FactoryPattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/FreshPizza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/IPhone$IPhoneBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/IPhone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/PhoneFactory$PhoneType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/PhoneFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Pizza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/PizzaDecorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/isomorphic/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/longest/common/prefix/SolutionMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Base.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Derived.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Mainclass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/threads/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/threads/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/threads/MyCallable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/threads/ProdConMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeReferences/threads/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/hashtable/ChainedHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/hashtable/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/hashtable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/hashtable/OddEvenThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/hashtable/SimpleHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/hashtable/StoredEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/heap/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/heap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/lists/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/lists/EmployeeDNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/lists/EmployeeDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/lists/EmployeeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/lists/EmployeeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/lists/MainLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/queue/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/queue/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/queue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/sorting/CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/sorting/FactorialRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/sorting/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/trees/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/trees/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/structure/trees/TreesMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/Android.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/BuilderPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/CheeseBurst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/DecoratorPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/ExtraToppings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/FactoryPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/FreshPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/IPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/PhoneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/PizzaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/isomorphic/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/longest/common/prefix/SolutionMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/special_string_again/Mainclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/special_string_again/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/ProdConMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/ReverseString/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/ValidStringBraces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/duplicateusingstream/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/employeedeptstream/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/employeedeptstream/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/employeedeptstream/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/highestnumber/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/linkedlist/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/linkedlist/EmployeeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/linkedlist/EmployeeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/listtomap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/maxsubarray/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/oddeventhread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/pairwithsum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/records/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/reversearray/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/segregatezeroone/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/startswithone/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/sumofsalaries/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCC/targetelementindex/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/structure/graph/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/structure/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/structure/graph/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/structure/lists/LinkedListPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/structure/lists/PartitionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/SoldierRatingTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/CountCharsStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/FirstNonRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/CompletableFutureExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/META-INF/PracticeReferences.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/ChainedHashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/ChainedHashTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/OddEvenThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/OddEvenThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/SimpleHashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/SimpleHashTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/StoredEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/hashtable/StoredEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/heap/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/heap/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/heap/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/heap/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeDNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeDNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeDoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeDoublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/EmployeeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/MainLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/lists/MainLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/queue/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/queue/ArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/queue/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/queue/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/queue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/queue/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/CountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/CountingSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/FactorialRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/FactorialRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/sorting/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/trees/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/trees/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/trees/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/trees/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/trees/TreesMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/data/structure/trees/TreesMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Android$AndroidBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Android$AndroidBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Android.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Android.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/BuilderPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/BuilderPattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/CheeseBurst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/CheeseBurst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Customer$CustomerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Customer$CustomerBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/DecoratorPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/DecoratorPattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/ExtraToppings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/ExtraToppings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/FactoryPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/FactoryPattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/FreshPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/FreshPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/IPhone$IPhoneBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/IPhone$IPhoneBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/IPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/IPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/PhoneFactory$PhoneType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/PhoneFactory$PhoneType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/PhoneFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/PhoneFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/PizzaDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/design/pattern/PizzaDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/problems/isomorphic/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/isomorphic/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/problems/longest/common/prefix/SolutionMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/longest/common/prefix/SolutionMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Derived.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Derived.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Mainclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Mainclass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/problems/special_string_again/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/threads/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/threads/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/threads/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/threads/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/threads/MyCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/threads/MyCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/threads/ProdConMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/threads/ProdConMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeReferences/threads/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeReferences/threads/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/structure/trees/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/structure/trees/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/structure/trees/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/structure/trees/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/structure/trees/TreesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/structure/trees/TreesMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/pattern/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/pattern/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems/HackerEarth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/HackerEarth.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -262,6 +228,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sanjayjha9950&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sanjayjha9950/practiceRef.git&quot;,
+    &quot;accountId&quot;: &quot;2c013895-644d-4d50-b21d-25ede8e134a4&quot;
+  }
+}</component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -308,46 +286,21 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="alwaysUpdateSnapshots" value="false" />
         <option name="checksumPolicy" value="FAIL" />
         <option name="failureBehavior" value="FAST" />
-        <option name="localRepository" value="" />
-        <option name="mavenHome" value="" />
-        <option name="nonRecursive" value="false" />
-        <option name="outputLevel" value="INFO" />
-        <option name="pluginUpdatePolicy" value="DEFAULT" />
-        <option name="printErrorStackTraces" value="false" />
-        <option name="usePluginRegistry" value="false" />
-        <option name="userSettingsFile" value="" />
-        <option name="workOffline" value="false" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="createModuleGroups" value="false" />
-        <option name="createModulesForAggregators" value="true" />
-        <option name="dedicatedModuleDir" value="" />
-        <option name="downloadDocsAutomatically" value="false" />
-        <option name="downloadSourcesAutomatically" value="false" />
-        <option name="excludeTargetFolder" value="true" />
-        <option name="generatedSourcesFolder" value="AUTODETECT" />
-        <option name="importAutomatically" value="false" />
-        <option name="keepSourceFolders" value="true" />
-        <option name="lookForNested" value="false" />
-        <option name="updateFoldersOnImportPhase" value="process-resources" />
-        <option name="useMavenOutput" value="true" />
-      </MavenImportingSettings>
-    </option>
-    <option name="enabledProfiles">
-      <list />
-    </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1385" />
     <option name="height" value="745" />
   </component>
+  <component name="ProjectId" id="2ilzlA7RCFWThi65jYcsGmlhup7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -412,51 +365,85 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/threads" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CountCharsStringArray.executor": "Run",
+    "Application.FirstNonRepeatingChar.executor": "Run",
+    "Application.GCC.ReverseString.Main.executor": "Run",
+    "Application.GCC.ValidStringBraces.Main.executor": "Run",
+    "Application.GCC.duplicateusingstream.Main.executor": "Run",
+    "Application.GCC.employeedeptstream.Main.executor": "Run",
+    "Application.GCC.highestnumber.Main.executor": "Run",
+    "Application.GCC.listtomap.Main.executor": "Run",
+    "Application.GCC.maxsubarray.Main.executor": "Run",
+    "Application.GCC.oddeventhread.Main.executor": "Debug",
+    "Application.GCC.pairwithsum.Main.executor": "Run",
+    "Application.GCC.reversearray.Main.executor": "Run",
+    "Application.GCC.segregatezeroone.Main.executor": "Run",
+    "Application.GCC.startswithone.Main.executor": "Run",
+    "Application.GCC.sumofsalaries.Main.executor": "Run",
+    "Application.GCC.targetelementindex.Main.executor": "Run",
+    "Application.Graph.executor": "Debug",
+    "Application.Knapsack.executor": "Debug",
+    "Application.Main.executor": "Run",
+    "Application.PartitionMain.executor": "Debug",
+    "Application.QuickSort.executor": "Debug",
+    "Application.SoldierRatingTeam.executor": "Run",
+    "Application.TreesMain.executor": "Run",
+    "Application.WaitAndNotify.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SanjayJha/IdeaProjects/practiceRef/src/GCC/linkedlist",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.customizations"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SanjayJha\IdeaProjects\practiceRef\src\GCC\linkedlist" />
+      <recent name="E:\PracticeReferences\src\threads" />
+      <recent name="E:\PracticeReferences\src\data\structure\sorting" />
+      <recent name="E:\PracticeReferences\src\design\pattern" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="data.structure.hashtable" />
       <recent name="data.structure.queue" />
       <recent name="threads" />
       <recent name="design.pattern" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\PracticeReferences\src\threads" />
-      <recent name="E:\PracticeReferences\src\data\structure\sorting" />
-      <recent name="E:\PracticeReferences\src\design\pattern" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ProdConMain">
+  <component name="RunManager" selected="Application.GCC.maxsubarray.Main">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mainclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.special_string_again.Mainclass" />
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCC.employeedeptstream.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GCC.employeedeptstream.Main" />
       <module name="PracticeReferences" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems.special_string_again.*" />
+          <option name="PATTERN" value="GCC.employeedeptstream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -464,13 +451,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdConMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.ProdConMain" />
+    <configuration name="GCC.listtomap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GCC.listtomap.Main" />
       <module name="PracticeReferences" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threads.*" />
+          <option name="PATTERN" value="GCC.listtomap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -478,13 +465,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.special_string_again.Solution" />
+    <configuration name="GCC.maxsubarray.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GCC.maxsubarray.Main" />
       <module name="PracticeReferences" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems.special_string_again.*" />
+          <option name="PATTERN" value="GCC.maxsubarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -492,13 +479,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.isomorphic.Solution" />
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.structure.graph.Graph" />
       <module name="PracticeReferences" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems.isomorphic.*" />
+          <option name="PATTERN" value="data.structure.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -506,13 +493,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.longest.common.prefix.SolutionMain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GCC.duplicateusingstream.Main" />
       <module name="PracticeReferences" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems.longest.common.prefix.*" />
+          <option name="PATTERN" value="GCC.duplicateusingstream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -542,25 +529,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProdConMain" />
-        <item itemvalue="Application.Mainclass" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.SolutionMain" />
+        <item itemvalue="Application.GCC.maxsubarray.Main" />
+        <item itemvalue="Application.GCC.listtomap.Main" />
+        <item itemvalue="Application.GCC.employeedeptstream.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Graph" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -665,98 +644,172 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data/structure/queue/ArrayQueue.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data/structure/queue/Main.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data/structure/queue/ArrayQueue.java</url>
           <line>67</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data/structure/queue/Main.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data/structure/trees/TreeNode.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data/structure/heap/Main.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data/structure/heap/Heap.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/problems/longest/common/prefix/SolutionMain.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/problems/isomorphic/Solution.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/problems/isomorphic/Solution.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/problems/special_string_again/Solution.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/problems/special_string_again/Solution.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/problems/special_string_again/Solution.java</url>
           <line>71</line>
-          <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/problems/special_string_again/Solution.java</url>
           <line>111</line>
-          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/problems/special_string_again/Solution.java</url>
           <line>103</line>
-          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/problems/special_string_again/Solution.java</url>
           <line>95</line>
-          <properties />
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GCC/ReverseString/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GCC/ReverseString/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GCC/ReverseString/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GCC/reversearray/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GCC/targetelementindex/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data/structure/sorting/QuickSort.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data/structure/sorting/QuickSort.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data/structure/sorting/QuickSort.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GCC/oddeventhread/Main.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GCC/oddeventhread/Main.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data/structure/lists/LinkedListPartition.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data/structure/lists/LinkedListPartition.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data/structure/lists/LinkedListPartition.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data/structure/lists/LinkedListPartition.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GCC/maxsubarray/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GCC/maxsubarray/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problems/Knapsack.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problems/Knapsack.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

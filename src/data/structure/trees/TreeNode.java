@@ -68,6 +68,26 @@ public class TreeNode {
         }
     }
 
+    public void traversePreOrder(){
+        System.out.print(data+ ", ");
+        if (leftChild!=null){
+            leftChild.traverseInOrder();
+        }
+        if (rightChild!=null){
+            rightChild.traverseInOrder();
+        }
+    }
+
+    public void traversePostOrder(){
+        if (leftChild!=null){
+            leftChild.traversePostOrder();
+        }
+        if (rightChild!=null){
+            rightChild.traversePostOrder();
+        }
+        System.out.print(data+ ", ");
+    }
+
     public TreeNode(int data) {
         this.data = data;
     }
